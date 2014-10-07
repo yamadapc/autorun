@@ -20,7 +20,7 @@ required, `cabal install` won't work :P.
 This makes the current state of the project a little unusable, but that's
 alright.
 
-So you can either:
+That being said:
 ```
 git clone https://github.com/yamadapc/autorun
 cd autorun
